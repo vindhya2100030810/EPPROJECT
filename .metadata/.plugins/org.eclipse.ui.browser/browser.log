@@ -1,0 +1,59 @@
+
+Jul 21, 2023 18:14:14.184 NEW SESSION
+Jul 21, 2023 18:14:14.184 [9064:23024:0721/181414.180:ERROR:device_event_log_impl.cc(222)] [18:14:14.182] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Jul 21, 2023 18:14:15.273 [9064:23024:0721/181415.273:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Jul 21, 2023 18:14:15.377 [9064:23024:0721/181415.377:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Jul 21, 2023 18:21:28.633 [9064:23024:0721/182128.633:ERROR:interface_endpoint_client.cc(697)] Message 1 rejected by interface blink.mojom.WidgetHost
+Jul 21, 2023 18:42:05.203 [9064:23024:0721/184205.203:ERROR:interface_endpoint_client.cc(697)] Message 0 rejected by interface blink.mojom.WidgetHost
+Jul 21, 2023 19:01:06.483 [9064:23024:0721/190106.483:ERROR:interface_endpoint_client.cc(697)] Message 1 rejected by interface blink.mojom.WidgetHost
+Jul 21, 2023 19:02:02.117 [9064:23024:0721/190202.117:ERROR:interface_endpoint_client.cc(697)] Message 1 rejected by interface blink.mojom.WidgetHost
+Jul 21, 2023 19:02:24.660 [9064:23024:0721/190224.660:ERROR:interface_endpoint_client.cc(697)] Message 1 rejected by interface blink.mojom.WidgetHost
+Jul 21, 2023 19:02:46.374 [9064:23024:0721/190246.374:ERROR:interface_endpoint_client.cc(697)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+Jul 22, 2023 08:16:13.269 NEW SESSION
+Jul 22, 2023 08:16:13.269 [12768:19488:0722/081613.267:ERROR:device_event_log_impl.cc(222)] [08:16:13.266] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Jul 22, 2023 08:16:14.715 [12768:19488:0722/081614.715:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Jul 22, 2023 08:16:14.795 [12768:19488:0722/081614.794:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+
+Jul 22, 2023 09:32:26.210 NEW SESSION
+Jul 22, 2023 09:32:26.210 [12504:11596:0722/093226.210:ERROR:device_event_log_impl.cc(222)] [09:32:26.204] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Jul 22, 2023 09:32:27.239 [12504:11596:0722/093227.239:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Jul 22, 2023 09:32:27.302 [12504:11596:0722/093227.302:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Jul 22, 2023 09:42:50.128 [12504:11596:0722/094250.128:ERROR:interface_endpoint_client.cc(697)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+Jul 22, 2023 11:29:22.530 NEW SESSION
+Jul 22, 2023 11:29:22.530 [9036:25428:0722/112922.527:ERROR:device_event_log_impl.cc(222)] [11:29:22.527] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Jul 22, 2023 11:29:23.157 [9036:25428:0722/112923.155:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Jul 22, 2023 11:29:23.204 [9036:25428:0722/112923.204:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Jul 22, 2023 11:53:30.226 [9036:25428:0722/115330.226:ERROR:interface_endpoint_client.cc(697)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+Jul 23, 2023 04:06:47.482 NEW SESSION
+Jul 23, 2023 04:06:47.482 [12548:24152:0723/040647.480:ERROR:device_event_log_impl.cc(222)] [04:06:47.475] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Jul 23, 2023 04:06:48.576 [12548:24152:0723/040648.576:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Jul 23, 2023 04:06:48.607 [12548:24152:0723/040648.607:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Jul 23, 2023 04:19:54.902 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Jul 23, 2023 04:24:52.867 [12548:24152:0723/042452.867:ERROR:interface_endpoint_client.cc(697)] Message 0 rejected by interface blink.mojom.WidgetHost
+Jul 23, 2023 04:25:08.762 [12548:24152:0723/042508.760:ERROR:interface_endpoint_client.cc(697)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+Jul 23, 2023 08:21:10.59 NEW SESSION
+Jul 23, 2023 08:21:10.59 [25616:24604:0723/082110.055:ERROR:device_event_log_impl.cc(222)] [08:21:10.049] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Jul 23, 2023 08:21:11.518 [25616:24604:0723/082111.518:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Jul 23, 2023 08:21:11.591 [25616:24604:0723/082111.591:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Jul 23, 2023 08:45:30.917 [25616:17256:0723/084530.917:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+Jul 23, 2023 09:34:19.790 NEW SESSION
+Jul 23, 2023 09:34:19.790 [10572:26580:0723/093419.774:ERROR:device_event_log_impl.cc(222)] [09:34:19.788] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Jul 23, 2023 09:34:20.361 [10572:26580:0723/093420.361:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Jul 23, 2023 09:34:20.440 [10572:26580:0723/093420.438:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Jul 23, 2023 09:39:36.151 [16100:8024:0723/093936.151:ERROR:device_event_log_impl.cc(222)] [09:39:36.136] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Jul 23, 2023 09:39:37.116 [16100:8024:0723/093937.116:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Jul 23, 2023 09:39:37.140 [16100:8024:0723/093937.140:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Jul 23, 2023 10:23:04.872 [16100:8572:0723/102304.872:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jul 23, 2023 10:30:34.842 [16100:8572:0723/103034.842:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jul 23, 2023 10:45:06.234 [16100:8572:0723/104506.231:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jul 23, 2023 10:51:52.658 [16100:8572:0723/105152.658:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Jul 23, 2023 10:51:53.12 [16100:24048:0723/105153.012:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 23, 2023 10:52:03.129 [16100:8572:0723/105203.092:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -200
+Jul 23, 2023 10:52:03.187 [16100:26072:0723/105203.187:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 23, 2023 10:55:24.109 [16100:8572:0723/105524.109:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jul 23, 2023 10:57:51.305 [16100:8024:0723/105751.305:ERROR:interface_endpoint_client.cc(697)] Message 1 rejected by interface blink.mojom.WidgetHost
